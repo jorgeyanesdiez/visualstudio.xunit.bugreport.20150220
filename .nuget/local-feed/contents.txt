@@ -1,0 +1,7 @@
+xunit.2.0.0-rc2-build2857.nupkg
+xunit.abstractions.2.0.0-rc2-build2857.nupkg
+xunit.assert.2.0.0-rc2-build2857.nupkg
+xunit.core.2.0.0-rc2-build2857.nupkg
+xunit.extensibility.core.2.0.0-rc2-build2857.nupkg
+xunit.runner.visualstudio.2.0.0-rc2-build1043.nupkg
+xunit.runners.2.0.0-rc2-build2857.nupkg

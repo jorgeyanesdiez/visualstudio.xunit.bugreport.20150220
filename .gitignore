@@ -1,0 +1,6 @@
+*.suo
+*.nupkg
+bin
+obj
+/.nuget/packages/*
+!/.nuget/packages/repositories.config
